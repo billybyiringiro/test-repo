@@ -1,0 +1,21 @@
+{
+  "sites": [
+    {
+      "name": "Test Repo",
+      "repository": "billybyiringiro/test-repo",
+      "branch": "main",
+      "websiteUrl": "http://localhost:3000",
+      "collections": [
+        {
+          "name": "blog",
+          "path": "posts",
+          "format": "md",
+          "fields": {
+            "title": "string",
+            "date": "date"
+          }
+        }
+      ]
+    }
+  ]
+}
