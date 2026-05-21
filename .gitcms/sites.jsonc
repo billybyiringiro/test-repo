@@ -1,9 +1,11 @@
 {
+  "version": 1,
   "sites": [
     {
-      "name": "test-repo",
-      "url": "https://github.com/billybyiringiro/test-repo",
-      "branch": "main"
+      "key": "localhost",
+      "display_name": "Site",
+      "website_url": "https://localhost",
+      "root_path": ""
     }
   ]
 }
